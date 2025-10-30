@@ -1,7 +1,8 @@
 # Projeto 📘 EBOOK – Python para Iniciantes em Análise de Dados e Automação 
 <p align="center">
-    <img width="120" src=".github/assets/banner.png">
+    <img width="400" src="assets/banner.png.jpg" alt="Python Automation Banner">
 </p>
+
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kassius-kb/"><img src="https://img.shields.io/badge/LinkedIn-Kassius%20Brito-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn - Kassius Brito"></a>
@@ -12,10 +13,7 @@
 -------
 
 <p align="center">
-<img 
-    src="./assets/cover.png"
-    width="400"  
-/>
+    <img width="200" src="assets/Cover.png" alt="Python Cover Image">
 </p>
 
 
@@ -65,13 +63,17 @@ Midjourney：
 
 ## 📚 Estrutura do Repositório
 
-📂 ebook-python-automacao-dados
-┣ 📁 assets/ → imagens e capas
-┣ 📁 output/ → versão final do eBook (PDF)
-┣ 📁 scripts/ → códigos Python de exemplo
-┣ 📄 README.md → documentação principal
-┗ 📄 prompts.txt → prompts usados na criação do conteúdo
+📂 Ebook-python-automacao-dados
 
+┣ 📁 assets/ → imagens e capas
+
+┣ 📁 output/ → versão final do eBook (PDF)
+
+┣ 📁 scripts/ → códigos Python de exemplo
+
+┗ 📄 README.md → documentação principal
+
+ 
 
 ---
 
@@ -93,7 +95,7 @@ Midjourney：
       width=80 
       src="https://avatars.githubusercontent.com/u/166886301?v=4"
     />
-    <p>&nbsp;&nbsp;&nbsp;<strong>Kassius Brito</strong><br>
+    <p>&nbsp;&nbsp;&nbsp;<strong>Kassius Brito "KBRITO"</strong><br>
     &nbsp;&nbsp;&nbsp;
         <a href="https://www.linkedin.com/in/kassius-kb">LinkedIn</a>&nbsp;|&nbsp;
         </p>
