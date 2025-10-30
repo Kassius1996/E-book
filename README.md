@@ -31,7 +31,7 @@ O conteúdo foi produzido com apoio de ferramentas de IA, revisado e estruturado
 ## 💻 Tecnologias e Ferramentas Utilizadas
 
 - [ChatGPT](https://chat.openai.com/) – geração de conteúdo e exemplos práticos  
-- [MidJourney](https://www.midjourney.com/app/) – criação de capas e imagens ilustrativas  
+- [Gemini](https://gemini.google.com/app) – criação de capas e imagens ilustrativas  
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) – diagramação final do eBook  
 - [Python](https://www.python.org/) – base de todos os exemplos e scripts  
 
