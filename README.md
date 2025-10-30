@@ -22,7 +22,7 @@
 
 > ⚙️ **Sobre o projeto:** Este repositório reúne o material completo desenvolvido para o eBook “Python para Iniciantes em Análise de Dados e Automação”, ideal para quem quer dominar os primeiros passos na programação, manipulação de dados e automação de processos corporativos.  
 
-O conteúdo foi inteiramente produzido com apoio de ferramentas de IA e estruturado em linguagem simples, com foco em aplicabilidade real para profissionais de Supply Chain, dados e tecnologia.  
+O conteúdo foi produzido com apoio de ferramentas de IA, revisado e estruturado em linguagem simples, com foco em aplicabilidade real para profissionais de Supply Chain, dados e tecnologia.  
 
 📗 [**Clique aqui para ler o eBook completo**](https://github.com/Kassius1996/ebook-python-automacao-dados/blob/main/output/Ebook_Python_Automacao.pdf)
 
@@ -91,7 +91,7 @@ Midjourney：
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/149163195?v=4"
+      src="https://avatars.githubusercontent.com/u/166886301?v=4"
     />
     <p>&nbsp;&nbsp;&nbsp;<strong>Kassius Brito</strong><br>
     &nbsp;&nbsp;&nbsp;
