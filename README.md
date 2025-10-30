@@ -95,8 +95,7 @@ Midjourney：
     />
     <p>&nbsp;&nbsp;&nbsp;<strong>Kassius Brito</strong><br>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/Kassius1996">GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/kassius-kb">LinkedIn</a>&nbsp;|&nbsp;
+        <a href="https://www.linkedin.com/in/kassius-kb">LinkedIn</a>&nbsp;|&nbsp;
         </p>
 </p>
 
