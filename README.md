@@ -44,8 +44,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                                            |
 | :------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  título  | Crie um título para um eBook sobre Python para iniciantes, com foco em análise de dados e automação. O título deve ser direto, marcante e profissional. Liste 5 variações.                                                                                                                        |
-| conteúdo | Faça um texto para eBook listando os principais comandos Python com exemplos em código {REGRAS}: - explique de forma simples, 
--deixe o texto enxuto e use exemplos reais de automação e análise de dados com títulos sugestivos por tópico.                                                        |
+| conteúdo | Faça um texto para eBook listando os principais comandos Python com exemplos em código {REGRAS}: Explique de forma simples, deixe o texto enxuto e use exemplos reais de automação e análise de dados com títulos sugestivos por tópico.                                                        |
 
 Midjourney：
 
