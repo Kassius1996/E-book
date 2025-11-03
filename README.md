@@ -1,4 +1,4 @@
-# Projeto 📘 EBOOK – Python para Iniciantes em Análise de Dados e Automação 
+# Projeto 📘 EBOOK – Python para Iniciantes em Análise de Dados 
 <p align="center">
     <img width="400" src="assets/banner.png.jpg" alt="Python Automation Banner">
 </p>
@@ -63,7 +63,7 @@ Midjourney：
 
 ## 📚 Estrutura do Repositório
 
-📂 Ebook-python-automacao-dados
+📂 Ebook-python-dados
 
 ┣ 📁 assets/ → imagens e capas
 
