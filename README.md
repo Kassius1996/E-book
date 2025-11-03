@@ -18,11 +18,11 @@
 
 
 
-> ⚙️ **Sobre o projeto:** Este repositório reúne o material completo desenvolvido para o eBook “Python para Iniciantes em Análise de Dados e Automação”, ideal para quem quer dominar os primeiros passos na programação, manipulação de dados e automação de processos corporativos.  
+> ⚙️ **Sobre o projeto:** Este repositório reúne o material completo desenvolvido para o eBook “Fundamentos de Python”, ideal para quem quer dominar os primeiros passos na programação, ter acesso a dicas e boas práticas e despertar a curiosidade para dar os primeiros passos no mundo dos códigos.  
 
-O conteúdo foi produzido com apoio de ferramentas de IA, revisado e estruturado em linguagem simples, com foco em aplicabilidade real para profissionais de Supply Chain, dados e tecnologia.  
+O conteúdo foi produzido com apoio de ferramentas de IA, revisado e estruturado em linguagem simples, com foco em aplicabilidade real.
 
-📗 [**Clique aqui para ler o eBook completo**](https://github.com/Kassius1996/ebook-python-automacao-dados/blob/main/output/Ebook_Python_Automacao.pdf)
+📗 [**Clique aqui para ler o eBook completo**](https://github.com/Kassius1996/Ebook-fundamentos-de-python/tree/main/output)
 
 ---
 
