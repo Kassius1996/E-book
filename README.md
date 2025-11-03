@@ -1,6 +1,6 @@
-# Projeto 📘 EBOOK – Python para Iniciantes em Análise de Dados 
+# PROJETO 📘 EBOOK – FUNDAMENTOS DE PYTHON
 <p align="center">
-    <img width="400" src="assets/banner.png.jpg" alt="Python Automation Banner">
+    <img width="370" src="assets/banner.png.jpg" alt="Python Automation Banner">
 </p>
 
 
