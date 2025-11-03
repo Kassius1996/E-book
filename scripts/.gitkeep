@@ -1,1 +1,49 @@
+Capítulo 1 — Fundamentos Rápidos de Python
+Mostrar resultados na tela — print()
+print("Análise de Vendas Concluída com Sucesso!")
+
+Variáveis claras ajudam a ler o código
+empresa = "TechLog"
+vendas = 1540
+print(f"A empresa {empresa} vendeu {vendas} unidades hoje.")
+
+Tipos comuns (texto, número, decimal, booleano)
+produto = "Notebook"   # str
+quantidade = 15        # int
+preco = 3499.90        # float
+disponivel = True      # bool
+
+Contas sem drama
+lucro, custos = 12000, 8700
+print("Lucro líquido:", lucro - custos)
+
+Decisão automática — if / elif / else
+estoque = 5
+if estoque < 10:
+    print("Atenção: estoque baixo!")
+else:
+    print("Estoque adequado.")
+
+Repetição simples — for
+produtos = ["Monitor", "Mouse", "Teclado"]
+for item in produtos:
+    print(f"Processando: {item}")
+
+Estruturas de dados úteis
+# Lista
+clientes = ["Ana", "Bruno", "Carla"]
+clientes.append("Diego")
+
+# Dicionário
+pedido = {"id": 102, "cliente": "Marina", "valor": 250.00}
+print(f"Pedido {pedido['id']} de {pedido['cliente']}")
+
+Funções: um bloco, uma responsabilidade
+def calcular_desconto(valor, taxa):
+    return valor - (valor * taxa)
+
+print("Preço:", calcular_desconto(1000, 0.1))
+
+-------------------------------------------------------------------------------------------
+
 
