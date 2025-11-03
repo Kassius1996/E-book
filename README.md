@@ -22,7 +22,7 @@
 
 O conteúdo foi produzido com apoio de ferramentas de IA, revisado e estruturado em linguagem simples, com foco em aplicabilidade real.
 
-📗 [**Clique aqui para ler o eBook completo**](https://github.com/Kassius1996/Ebook-fundamentos-de-python/tree/main/output)
+📗 [**Clique aqui para ler o eBook completo**](https://github.com/Kassius1996/Ebook-fundamentos-de-python/blob/main/output/ebook%20-%20fundamentos%20de%20Python.pdf)
 
 ---
 
